@@ -35,7 +35,8 @@ def get_link(soup, conf):
 
 def get_name(link):
     """
-    Use the parameter link to print all the names and information in the URL page
+    Use the parameter link to create csv file for all the names and information 
+    in the URL page
     """
     soup = make_soup(link)
     name_list = []
@@ -62,6 +63,10 @@ def get_name(link):
     return None
 
 def crawl_site(url, links):
+    """
+    Use the parameter url and list of links find all links between 2020 to 2010
+    and call get_name to crawl names.
+    """
     url = url[:url.find('/a')]
     for link in links:
         link = url + link
