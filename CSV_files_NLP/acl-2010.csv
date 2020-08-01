@@ -1,0 +1,724 @@
+Name,Gender,Race
+Jan Hajič,male,W_NL
+Sandra Carberry,female,W_NL
+Stephen Clark,male,W_NL
+Joakim Nivre,male,W_NL
+Terry Koo,male,A
+Michael Collins,male,W_NL
+Wenbin Jiang,male,A
+Qun Liu,female,A
+Wenliang Chen,male,A
+Jun’ichi Kazama,female,A
+Kentaro Torisawa,male,A
+Alexander Koller,male,W_NL
+Stefan Thater,male,W_NL
+Nils Reiter,male,W_NL
+Anette Frank,female,W_NL
+Xianpei Han,male,A
+Jun Zhao,male,A
+Frank Rudzicz,male,W_NL
+Srinivasan Janarthanam,male,A
+Oliver Lemon,male,B_NL
+Shih-Hsiang Lin,female,A
+Berlin Chen,male,A
+Steven Abney,male,W_NL
+Steven Bird,male,W_NL
+Daphna Shezaf,female,A
+Ari Rappoport,male,W_NL
+Hiroshi Echizen-ya,male,A
+Kenji Araki,male,A
+Fei Wu,male,A
+Daniel S. Weld,male,W_NL
+Laura Chiticariu,female,A
+Rajasekar Krishnamurthy,male,A
+Yunyao Li,male,A
+Sriram Raghavan,male,A
+Frederick Reiss,male,W_NL
+Shivakumar Vaithyanathan,male,A
+David Elson,male,W_NL
+Nicholas Dames,male,B_NL
+Kathleen McKeown,female,W_NL
+Xiangyu Duan,female,A
+Min Zhang,male,A
+Haizhou Li,male,A
+Jason Riesa,male,W_NL
+Daniel Marcu,male,W_NL
+Marie-Catherine de Marneffe,female,W_NL
+Christopher D. Manning,male,W_NL
+Christopher Potts,male,W_NL
+Ethan Selfridge,male,W_NL
+Peter Heeman,male,W_NL
+Jackie Chi Kit Cheung,male,A
+Gerald Penn,male,B_NL
+Jeff Mitchell,male,W_NL
+Mirella Lapata,female,HL
+Vera Demberg,female,W_NL
+Frank Keller,male,W_NL
+Matthew Honnibal,male,W_NL
+James R. Curran,male,W_NL
+Johan Bos,male,W_NL
+Roberto Navigli,male,HL
+Simone Paolo Ponzetto,male,A
+Omri Abend,male,A
+Ari Rappoport,male,W_NL
+Danilo Croce,male,A
+Cristina Giannone,female,HL
+Paolo Annesi,male,HL
+Roberto Basili,male,HL
+Jun’ichi Kazama,female,A
+Stijn De Saeger,male,A
+Kow Kuroda,male,A
+Masaki Murata,female,A
+Kentaro Torisawa,male,A
+Jia Wang,female,A
+Qing Li,female,A
+Yuanzhu Peter Chen,male,A
+Zhangxi Lin,female,A
+Xu Sun,male,A
+Jianfeng Gao,male,A
+Daniel Micol,male,W_NL
+Chris Quirk,male,W_NL
+Ruihong Huang,female,A
+Ellen Riloff,female,W_NL
+Raphael Hoffmann,male,W_NL
+Congle Zhang,female,A
+Daniel S. Weld,male,W_NL
+Hoifung Poon,female,A
+Pedro Domingos,male,HL
+Jun Sun,male,A
+Min Zhang,male,A
+Chew Lim Tan,male,A
+Shujie Liu,female,A
+Chi-Ho Li,male,A
+Ming Zhou,male,A
+Xianchao Wu,male,A
+Takuya Matsuzaki,female,A
+Jun’ichi Tsujii,female,A
+Timothy A. D. Fowler,male,W_NL
+Gerald Penn,male,B_NL
+Jonathan K. Kummerfeld,male,W_NL
+Jessika Roesner,female,W_NL
+Tim Dawborn,male,W_NL
+James Haggerty,male,W_NL
+James R. Curran,male,W_NL
+Stephen Clark,male,W_NL
+Manabu Sassano,male,A
+Sadao Kurohashi,male,A
+Nikolaos Trogkanis,male,W_NL
+Charles Elkan,male,W_NL
+Sebastian Spiegler,male,W_NL
+Peter A. Flach,male,W_NL
+Joseph Turian,male,W_NL
+Lev-Arie Ratinov,male,W_NL
+Yoshua Bengio,male,HL
+Ahmed Hassan,male,A
+Dragomir R. Radev,male,W_NL
+Wei Wei,male,A
+Jon Atle Gulla,male,W_NL
+Shoushan Li,male,A
+Chu-Ren Huang,female,A
+Guodong Zhou,male,A
+Sophia Yat Mei Lee,female,A
+Alan Ritter,male,W_NL
+Mausam,,
+Oren Etzioni,male,W_NL
+Diarmuid Ó Séaghdha,male,A
+Nathanael Chambers,male,B_NL
+Daniel Jurafsky,male,W_NL
+Reyyan Yeniterzi,male,A
+Kemal Oflazer,male,B_NL
+Nadir Durrani,male,A
+Hassan Sajjad,male,A
+Alexander Fraser,male,W_NL
+Helmut Schmid,male,W_NL
+Joern Wuebker,male,W_NL
+Arne Mauser,male,W_NL
+Hermann Ney,male,W_NL
+Nobuhiro Kaji,male,A
+Yasuhiro Fujiwara,male,A
+Naoki Yoshinaga,female,A
+Masaru Kitsuregawa,female,A
+Sujith Ravi,male,A
+Jason Baldridge,male,W_NL
+Kevin Knight,male,B_NL
+Thomas Lavergne,male,W_NL
+Olivier Cappé,male,HL
+François Yvon,male,B_NL
+Sylvain Schmitz,male,W_NL
+Benoît Sagot,male,A
+Giorgio Satta,male,HL
+Marco Kuhlmann,male,HL
+Alexander Koller,male,W_NL
+Giorgio Satta,male,HL
+Emily Pitler,female,W_NL
+Annie Louis,female,B_NL
+Ani Nenkova,female,A
+Vahed Qazvinian,male,A
+Dragomir R. Radev,male,W_NL
+Kristian Woodsend,male,W_NL
+Mirella Lapata,female,HL
+Cigdem Toprak,female,A
+Niklas Jakob,male,W_NL
+Iryna Gurevych,female,W_NL
+Valentin Jijkoun,male,A
+Maarten de Rijke,male,A
+Wouter Weerkamp,male,W_NL
+Jungi Kim,female,A
+Jin-Ji Li,female,A
+Jong-Hyeok Lee,male,A
+Deyi Xiong,male,A
+Min Zhang,male,A
+Haizhou Li,male,A
+Radu Soricut,male,A
+Abdessamad Echihabi,male,A
+Yifan He,male,A
+Yanjun Ma,female,A
+Josef van Genabith,male,W_NL
+Andy Way,male,A
+Yufeng Chen,female,A
+Chengqing Zong,male,A
+Keh-Yih Su,female,A
+Peng Li,male,A
+Jing Jiang,male,A
+Yinglin Wang,female,A
+Shasha Li,female,A
+Chin-Yew Lin,male,A
+Young-In Song,female,A
+Zhoujun Li,female,A
+Christian Chiarcos,male,HL
+Francisco Costa,male,HL
+António Branco,male,HL
+Stephen Tratz,male,W_NL
+Eduard Hovy,male,W_NL
+Ekaterina Shutova,female,A
+Beata Beigman Klebanov,male,W_NL
+Eyal Beigman,male,W_NL
+WenTing Wang,male,A
+Jian Su,male,A
+Chew Lim Tan,male,A
+Jenny Rose Finkel,female,W_NL
+Christopher D. Manning,male,W_NL
+Markus Dickinson,male,W_NL
+Tong Xiao,male,A
+Jingbo Zhu,male,A
+Muhua Zhu,male,A
+Huizhen Wang,female,A
+Zhili Wu,female,A
+Katja Markert,female,W_NL
+Serge Sharoff,male,B_NL
+Mattia Tomasoni,male,HL
+Minlie Huang,female,A
+Richard Beaufort,male,B_NL
+Sophie Roekhaut,female,W_NL
+Louise-Amélie Cougnon,female,B_NL
+Cédrick Fairon,male,B_NL
+Sittichai Jiampojamarn,male,A
+Grzegorz Kondrak,male,W_NL
+Shasha Liao,female,A
+Ralph Grishman,male,W_NL
+Jessica Villing,female,W_NL
+Adam Vogel,male,W_NL
+Daniel Jurafsky,male,W_NL
+Asli Celikyilmaz,female,A
+Dilek Hakkani-Tur,female,A
+Zhanyi Liu,female,A
+Haifeng Wang,male,A
+Hua Wu,male,A
+Sheng Li,female,A
+Boxing Chen,male,A
+George Foster,male,W_NL
+Roland Kuhn,male,W_NL
+Gerard de Melo,male,HL
+Gerhard Weikum,male,W_NL
+Michael Bloodgood,male,W_NL
+Chris Callison-Burch,male,W_NL
+Shane Bergsma,male,W_NL
+Emily Pitler,female,W_NL
+Dekang Lin,male,A
+Min Zhang,male,A
+Hui Zhang,male,A
+Haizhou Li,male,A
+Jeffrey Heinz,male,W_NL
+James Rogers,male,W_NL
+Jeffrey Heinz,male,W_NL
+Sebastian Rudolph,male,A
+Eugenie Giesbrecht,female,W_NL
+Xiaojun Wan,male,A
+Huiying Li,female,A
+Jianguo Xiao,male,A
+Marina Litvak,female,W_NL
+Mark Last,male,W_NL
+Menahem Friedman,male,W_NL
+Elif Yamangil,female,A
+Stuart M. Shieber,male,W_NL
+Stefan Thater,male,W_NL
+Hagen Fürstenau,male,W_NL
+Manfred Pinkal,male,A
+Ivan Titov,male,HL
+Mikhail Kozhevnikov,male,W_NL
+Fei Huang,male,A
+Alexander Yates,male,W_NL
+Michaela Regneri,female,W_NL
+Alexander Koller,male,W_NL
+Manfred Pinkal,male,A
+Michael Connor,male,W_NL
+Yael Gertner,female,W_NL
+Cynthia Fisher,female,W_NL
+Dan Roth,male,W_NL
+Kornel Laskowski,male,W_NL
+Verena Rieser,female,W_NL
+Oliver Lemon,male,B_NL
+Xingkun Liu,male,A
+Morgan Sonderegger,male,W_NL
+Partha Niyogi,male,A
+David Hall,male,W_NL
+Dan Klein,male,W_NL
+Eric Corlett,male,W_NL
+Gerald Penn,male,B_NL
+Benjamin Snyder,male,W_NL
+Regina Barzilay,female,W_NL
+Kevin Knight,male,B_NL
+Jonathan May,male,W_NL
+Kevin Knight,male,B_NL
+Heiko Vogler,male,A
+Andreas Maletti,male,W_NL
+Liang Huang,male,A
+Kenji Sagae,male,A
+Wolfgang Seeker,male,A
+Ines Rehbein,female,HL
+Jonas Kuhn,male,W_NL
+Josef van Genabith,male,W_NL
+Mohit Bansal,male,A
+Dan Klein,male,W_NL
+Junhui Li,male,A
+Guodong Zhou,male,A
+Hwee Tou Ng,female,A
+Peter Prettenhofer,male,W_NL
+Benno Stein,male,W_NL
+Duo Zhang,male,A
+Qiaozhu Mei,female,A
+ChengXiang Zhai,male,A
+Linlin Li,female,A
+Benjamin Roth,male,W_NL
+Caroline Sporleder,female,W_NL
+Mark Johnson,male,B_NL
+Katrin Tomanek,female,W_NL
+Udo Hahn,male,A
+Steffen Lohmann,male,W_NL
+Jürgen Ziegler,male,W_NL
+Klinton Bicknell,male,W_NL
+Roger Levy,male,W_NL
+Amit Dubey,male,A
+Stephen Wu,male,A
+Asaf Bachrach,male,A
+Carlos Cardenas,male,HL
+William Schuler,male,W_NL
+Mark Sammons,male,W_NL
+V.G.Vinod Vydiswaran,male,A
+Dan Roth,male,W_NL
+Shachar Mirkin,male,A
+Ido Dagan,male,A
+Sebastian Padó,male,HL
+Jonathan Berant,male,W_NL
+Ido Dagan,male,A
+Jacob Goldberger,male,W_NL
+Baoxun Wang,female,A
+Xiaolong Wang,male,A
+Chengjie Sun,male,A
+Bingquan Liu,male,A
+Lin Sun,female,A
+Yansong Feng,male,A
+Mirella Lapata,female,HL
+Ahmet Aker,male,W_NL
+Robert Gaizauskas,male,W_NL
+Ryu Iida,male,A
+Syumpei Kobayashi,female,A
+Takenobu Tokunaga,female,A
+S.R.K. Branavan,male,W_NL
+Luke Zettlemoyer,male,W_NL
+Regina Barzilay,female,W_NL
+Valentin I. Spitkovsky,male,W_NL
+Daniel Jurafsky,male,W_NL
+Hiyan Alshawi,male,A
+Taylor Berg-Kirkpatrick,female,B_NL
+Dan Klein,male,W_NL
+Omri Abend,male,A
+Roi Reichart,male,W_NL
+Ari Rappoport,male,W_NL
+Dmitry Davidov,male,W_NL
+Ari Rappoport,male,W_NL
+Roberto Navigli,male,HL
+Paola Velardi,female,HL
+Ashwin Ittoo,male,A
+Gosse Bouma,male,W_NL
+Xiao Li,female,A
+Manoj Kumar Chinnakotla,male,A
+Karthik Raman,male,A
+Pushpak Bhattacharyya,male,A
+Celina Santamaría,female,HL
+Julio Gonzalo,male,HL
+Javier Artiles,male,HL
+Binyang Li,male,A
+Lanjun Zhou,female,A
+Shi Feng,female,A
+Kam-Fai Wong,male,A
+Swati Tata,female,A
+Barbara Di Eugenio,female,HL
+Georgios Paltoglou,male,W_NL
+Mike Thelwall,male,B_NL
+Vincent Ng,male,A
+Cosmin Bejan,male,HL
+Sanda Harabagiu,female,A
+Marta Recasens,female,HL
+Eduard Hovy,male,W_NL
+Haitao Mi,male,A
+Qun Liu,female,A
+David Chiang,male,A
+John DeNero,male,W_NL
+Dan Klein,male,W_NL
+Keun Chan Park,male,A
+Yoonjae Jeong,female,A
+Sung Hyon Myaeng,male,A
+Partha Pratim Talukdar,male,A
+Fernando Pereira,male,HL
+Zornitsa Kozareva,female,HL
+Eduard Hovy,male,W_NL
+Carlos Gómez-Rodríguez,male,HL
+Joakim Nivre,male,W_NL
+Shay Cohen,female,W_NL
+Noah A. Smith,male,W_NL
+Matthew Skala,male,W_NL
+Victoria Krakovna,female,HL
+János Kramár,male,W_NL
+Gerald Penn,male,B_NL
+Simone Paolo Ponzetto,male,A
+Roberto Navigli,male,HL
+Mitesh Khapra,male,A
+Anup Kulkarni,male,A
+Saurabh Sohoney,male,A
+Pushpak Bhattacharyya,male,A
+Weiwei Guo,female,A
+Mona Diab,female,A
+François Mairesse,male,B_NL
+Milica Gašić,female,W_NL
+Filip Jurčíček,male,W_NL
+Simon Keizer,male,W_NL
+Blaise Thomson,male,W_NL
+Kai Yu,male,A
+Steve Young,male,B_NL
+Neil McIntyre,male,W_NL
+Mirella Lapata,female,HL
+Konstantina Garoufi,female,A
+Alexander Koller,male,W_NL
+Matthew Gerber,male,W_NL
+Joyce Chai,female,A
+Jan Hajič,male,W_NL
+Sandra Carberry,female,W_NL
+Stephen Clark,male,W_NL
+Joakim Nivre,male,W_NL
+Takashi Onishi,male,A
+Masao Utiyama,male,A
+Eiichiro Sumita,male,A
+Lei Cui,female,A
+Dongdong Zhang,male,A
+Mu Li,male,A
+Ming Zhou,male,A
+Tiejun Zhao,male,A
+Jinsong Su,male,A
+Yang Liu,male,A
+Yajuan Lv,male,HL
+Haitao Mi,male,A
+Qun Liu,female,A
+Hailong Cao,male,A
+Eiichiro Sumita,male,A
+Bing Xiang,male,A
+Yonggang Deng,male,A
+Bowen Zhou,male,A
+Graeme Blackwood,male,W_NL
+Adrià de Gispert,female,HL
+William Byrne,male,W_NL
+Micha Elsner,female,W_NL
+Eugene Charniak,male,W_NL
+Sindhu Raghavan,male,A
+Adriana Kovashka,female,HL
+Raymond Mooney,male,W_NL
+Myroslava O. Dzikovska,female,W_NL
+Johanna D. Moore,female,B_NL
+Natalie Steinhauser,female,W_NL
+Gwendolyn Campbell,female,B_NL
+Raquel Hervás,male,HL
+Mark Finlayson,male,W_NL
+Martijn Goudbeek,male,W_NL
+Emiel Krahmer,male,W_NL
+Frank Keller,male,W_NL
+Nancy Ide,female,W_NL
+Collin Baker,male,W_NL
+Christiane Fellbaum,female,W_NL
+Rebecca Passonneau,female,W_NL
+Yoshihide Kato,female,A
+Shigeki Matsubara,female,A
+Marcus Dobrinkat,male,B_NL
+Tero Tapiovaara,male,HL
+Jaakko Väyrynen,male,A
+Kimmo Kettunen,male,A
+Ondřej Bojar,male,W_NL
+Kamil Kos,male,A
+David Mareček,male,W_NL
+Katrin Erk,female,W_NL
+Sebastian Padó,male,HL
+Yotaro Watanabe,male,A
+Masayuki Asahara,female,A
+Yuji Matsumoto,male,A
+Weiwei Sun,female,A
+Gerlof Bouma,male,W_NL
+Jian-Cheng Wu,male,A
+Yu-Chia Chang,female,A
+Teruko Mitamura,female,A
+Jason S. Chang,male,A
+Tingxu Yan,male,A
+Tamsin Maxwell,female,B_NL
+Dawei Song,male,A
+Yuexian Hou,female,A
+Peng Zhang,male,A
+Karin Murthy,female,A
+Tanveer A Faruquie,male,A
+L Venkata Subramaniam,male,A
+Hima Prasad K,male,A
+Mukesh Mohania,male,A
+Richard Power,male,W_NL
+Hiroyuki Shindo,female,A
+Akinori Fujino,female,A
+Masaaki Nagata,female,A
+Zhiyang Wang,male,A
+Yajuan Lv,male,HL
+Qun Liu,female,A
+Young-Sook Hwang,male,A
+Narges Sharif Razavian,male,A
+Stephan Vogel,male,W_NL
+Minwoo Jeong,male,A
+Ivan Titov,male,HL
+Veselin Stoyanov,male,W_NL
+Claire Cardie,female,W_NL
+Nathan Gilbert,male,A
+Ellen Riloff,female,W_NL
+David Buttler,male,W_NL
+David Hysom,male,W_NL
+Hirotoshi Taira,female,A
+Sanae Fujita,female,A
+Masaaki Nagata,female,A
+Weiwei Sun,female,A
+Jesús González-Rubio,male,HL
+Daniel Ortiz-Martínez,male,HL
+Francisco Casacuberta,male,HL
+Marine Carpuat,female,W_NL
+Yuval Marton,male,B_NL
+Nizar Habash,male,A
+Tomoharu Iwata,female,A
+Daichi Mochihashi,male,A
+Hiroshi Sawada,female,A
+Kotaro Kitagawa,male,A
+Kumiko Tanaka-Ishii,female,A
+Jennifer Gillenwater,female,W_NL
+Kuzman Ganchev,male,A
+João Graça,male,HL
+Fernando Pereira,male,HL
+Ben Taskar,male,A
+Adam Pauls,male,W_NL
+Dan Klein,male,W_NL
+Chris Quirk,male,W_NL
+Anders Søgaard,male,W_NL
+Ashish Vaswani,male,A
+Adam Pauls,male,W_NL
+David Chiang,male,A
+Michael Lamar,male,W_NL
+Yariv Maron,male,A
+Mark Johnson,male,B_NL
+Elie Bienenstock,male,W_NL
+Robert C. Moore,male,W_NL
+William Lewis,male,B_NL
+Trevor Cohn,male,W_NL
+Phil Blunsom,male,B_NL
+Benjamin Van Durme,male,W_NL
+Ashwin Lall,male,A
+Matthias H. Heie,male,W_NL
+Edward W. D. Whittaker,male,W_NL
+Sadaoki Furui,female,A
+Roni Ben Aharon,male,A
+Idan Szpektor,male,W_NL
+Ido Dagan,male,A
+Cristian Danescu-Niculescu-Mizil,male,HL
+Lillian Lee,female,A
+Beata Beigman Klebanov,male,W_NL
+Eyal Beigman,male,W_NL
+Daniel Diermeier,male,W_NL
+Bin Wei,male,A
+Christopher Pal,male,A
+Niklas Jakob,male,W_NL
+Iryna Gurevych,female,W_NL
+Yejin Choi,female,A
+Claire Cardie,female,W_NL
+Dong Yang,male,A
+Paul Dixon,male,B_NL
+Sadaoki Furui,female,A
+Yassine Benajiba,male,HL
+Imed Zitouni,male,A
+Mona Diab,female,A
+Paolo Rosso,male,HL
+Anthony Fader,male,W_NL
+Stephen Soderland,male,W_NL
+Oren Etzioni,male,W_NL
+Aria Haghighi,female,A
+Dan Klein,male,W_NL
+Decong Li,male,A
+Sujian Li,male,A
+Wenjie Li,female,A
+Wei Wang,male,A
+Weiguang Qu,male,A
+Tanel Alumäe,male,B_NL
+Mikko Kurimo,male,A
+Trung H. Bui,male,A
+Stanley Peters,male,W_NL
+Yun-Cheng Ju,female,A
+Tim Paek,male,A
+Costanza Navarretta,female,HL
+Patrizia Paggio,female,HL
+Hitoshi Nishikawa,female,A
+Takaaki Hasegawa,female,A
+Yoshihiro Matsuo,male,A
+Genichiro Kikui,male,A
+Israela Becker,female,W_NL
+Vered Aharonson,female,B_NL
+Ainur Yessenalina,female,A
+Yejin Choi,female,A
+Claire Cardie,female,W_NL
+Seth Kulick,male,W_NL
+Adam Pauls,male,W_NL
+Dan Klein,male,W_NL
+Joel Tetreault,male,W_NL
+Jennifer Foster,female,W_NL
+Martin Chodorow,male,W_NL
+Xiao-Li Li,female,A
+Lei Zhang,female,A
+Bing Liu,male,A
+See-Kiong Ng,male,A
+Vamshi Ambati,male,A
+Stephan Vogel,male,W_NL
+Jaime Carbonell,male,HL
+David Vickrey,male,W_NL
+Oscar Kipersztok,male,HL
+Daphne Koller,female,W_NL
+Paramveer S. Dhillon,male,A
+Partha Pratim Talukdar,male,A
+Koby Crammer,male,W_NL
+Josef Steinberger,male,W_NL
+Marco Turchi,male,HL
+Mijail Kabadjov,male,A
+Ralf Steinberger,male,W_NL
+Nello Cristianini,male,HL
+Seniz Demir,female,A
+Jan Raab,male,W_NL
+Nils Reiter,male,W_NL
+Marketa Lopatkova,female,HL
+Tomek Strzalkowski,male,W_NL
+Brian Plüss,male,W_NL
+Pierre Lison,male,B_NL
+Siva Reddy,male,A
+Abhilash Inumella,male,A
+Federico Sangati,male,HL
+Christian Scheible,male,W_NL
+Coşkun Mermer,male,W_NL
+Daniil Umanski,male,W_NL
+Federico Sangati,male,HL
+Thin Nguyen,male,A
+Yabin Zheng,male,A
+Zhiyuan Liu,male,A
+Lixing Xie,female,A
+Martin Haulrich,male,W_NL
+Clifton McFate,male,B_NL
+Daria Bogdanova,female,HL
+Barbara McGillivray,female,W_NL
+Hector-Hugo Franco-Penya,male,HL
+Vipul Mittal,male,A
+Rasoul Samad Zadeh Kaljahi,male,A
+Galina Tremper,female,W_NL
+Bharat Ram Ambati,male,A
+Andrés Osvaldo Porta,male,HL
+Sandra Kübler,female,W_NL
+Emily M. Bender,female,W_NL
+Scott Drellishak,male,W_NL
+Antske Fokkens,male,B_NL
+Michael Wayne Goodman,male,W_NL
+Daniel P. Mills,male,W_NL
+Laurie Poulson,female,W_NL
+Safiyyah Saleem,female,A
+Chris Dyer,male,W_NL
+Adam Lopez,male,HL
+Juri Ganitkevitch,male,A
+Jonathan Weese,male,W_NL
+Ferhan Ture,male,B_NL
+Phil Blunsom,male,B_NL
+Hendra Setiawan,male,A
+Vladimir Eidelman,male,W_NL
+Philip Resnik,male,W_NL
+Myroslava O. Dzikovska,female,W_NL
+Johanna D. Moore,female,B_NL
+Natalie Steinhauser,female,W_NL
+Gwendolyn Campbell,female,B_NL
+Elaine Farrow,female,B_NL
+Charles B. Callaway,male,W_NL
+Verena Henrich,female,W_NL
+Erhard Hinrichs,male,W_NL
+Erhard Hinrichs,male,W_NL
+Marie Hinrichs,female,W_NL
+Thomas Zastrow,male,W_NL
+David Jurgens,male,W_NL
+Keith Stevens,male,W_NL
+Tina Klüwer,female,W_NL
+Peter Adolphs,male,W_NL
+Feiyu Xu,male,A
+Hans Uszkoreit,male,W_NL
+Xiwen Cheng,female,A
+Milen Kouylekov,male,A
+Matteo Negri,male,HL
+Mikko Kurimo,male,A
+William Byrne,male,W_NL
+John Dines,male,W_NL
+Philip N. Garner,male,W_NL
+Matthew Gibson,male,W_NL
+Yong Guan,male,A
+Teemu Hirsimäki,male,A
+Reima Karhila,male,A
+Simon King,male,A
+Hui Liang,male,A
+Keiichiro Oura,male,A
+Lakshmi Saheer,female,A
+Matt Shannon,male,W_NL
+Sayaki Shiota,female,A
+Jilei Tian,male,A
+Jochen Leidner,male,W_NL
+Frank Schilder,male,W_NL
+Taniya Mishra,female,A
+Srinivas Bangalore,male,A
+Aarne Ranta,male,W_NL
+Krasimir Angelov,male,W_NL
+Thomas Hallgren,male,W_NL
+Yorick Wilks,male,B_NL
+Roberta Catizone,female,W_NL
+Alexiei Dingli,male,A
+Weiwei Cheng,female,A
+Zhi Zhong,male,A
+Hwee Tou Ng,female,A
+Lluís Màrquez,male,HL
+Haifeng Wang,male,A
+Julia Hockenmaier,female,W_NL
+Yusuke Miyao,male,A
+Josef van Genabith,male,W_NL
+Yang Liu,male,A
+Liang Huang,male,A
+Bonnie Webber,female,W_NL
+Markus Egg,male,W_NL
+Valia Kordoni,female,A
+Eduard Hovy,male,W_NL
+Hal Daumé III,male,B_NL
+Rohit J. Kate,male,A
+Yuk Wah Wong,male,A

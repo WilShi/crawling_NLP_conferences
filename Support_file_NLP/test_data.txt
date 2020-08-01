@@ -1,0 +1,31 @@
+ACL
+2020 {'Population': 5168, 'male': 3728, 'female': 1440, 'white': 1181, 'hispano': 355, 'asian': 3413, 'black': 219}
+2019 {'Population': 5593, 'male': 3976, 'female': 1617, 'white': 1444, 'hispano': 574, 'asian': 3292, 'black': 283}
+2018 {'Population': 2515, 'male': 1873, 'female': 642, 'white': 615, 'hispano': 196, 'asian': 1591, 'black': 113}
+2017 {'Population': 1278, 'male': 917, 'female': 361, 'white': 319, 'hispano': 84, 'asian': 809, 'black': 66}
+2016 {'Population': 1296, 'male': 957, 'female': 339, 'white': 434, 'hispano': 124, 'asian': 684, 'black': 54}
+2015 {'Population': 1245, 'male': 936, 'female': 309, 'white': 352, 'hispano': 126, 'asian': 721, 'black': 46}
+2014 {'Population': 1062, 'male': 786, 'female': 276, 'white': 382, 'hispano': 68, 'asian': 550, 'black': 62}
+2013 {'Population': 1288, 'male': 955, 'female': 333, 'white': 421, 'hispano': 138, 'asian': 673, 'black': 56}
+2012 {'Population': 755, 'male': 552, 'female': 203, 'white': 221, 'hispano': 71, 'asian': 420, 'black': 43}
+2011 {'Population': 943, 'male': 712, 'female': 231, 'white': 364, 'hispano': 85, 'asian': 446, 'black': 48}
+2010 {'Population': 722, 'male': 531, 'female': 191, 'white': 285, 'hispano': 67, 'asian': 326, 'black': 44}
+EMNLP
+2019 {'Population': 4589, 'male': 3297, 'female': 1292, 'white': 931, 'hispano': 290, 'asian': 3197, 'black': 171}
+2018 {'Population': 3818, 'male': 2801, 'female': 1017, 'white': 1065, 'hispano': 361, 'asian': 2168, 'black': 224}
+2017 {'Population': 1246, 'male': 936, 'female': 310, 'white': 356, 'hispano': 98, 'asian': 725, 'black': 67}
+2016 {'Population': 967, 'male': 722, 'female': 245, 'white': 274, 'hispano': 61, 'asian': 583, 'black': 49}
+2015 {'Population': 1058, 'male': 800, 'female': 258, 'white': 303, 'hispano': 77, 'asian': 617, 'black': 61}
+2014 {'Population': 746, 'male': 547, 'female': 199, 'white': 200, 'hispano': 68, 'asian': 435, 'black': 43}
+2013 {'Population': 671, 'male': 510, 'female': 161, 'white': 227, 'hispano': 51, 'asian': 349, 'black': 44}
+2012 {'Population': 441, 'male': 343, 'female': 98, 'white': 150, 'hispano': 33, 'asian': 232, 'black': 26}
+2011 {'Population': 477, 'male': 373, 'female': 104, 'white': 184, 'hispano': 47, 'asian': 226, 'black': 20}
+2010 {'Population': 378, 'male': 309, 'female': 69, 'white': 142, 'hispano': 24, 'asian': 189, 'black': 23}
+NAACL
+2019 {'Population': 2875, 'male': 2095, 'female': 780, 'white': 864, 'hispano': 253, 'asian': 1614, 'black': 144}
+2018 {'Population': 2058, 'male': 1463, 'female': 595, 'white': 734, 'hispano': 190, 'asian': 1013, 'black': 121}
+2016 {'Population': 796, 'male': 586, 'female': 210, 'white': 262, 'hispano': 60, 'asian': 425, 'black': 49}
+2015 {'Population': 761, 'male': 578, 'female': 183, 'white': 298, 'hispano': 75, 'asian': 341, 'black': 47}
+2013 {'Population': 492, 'male': 374, 'female': 118, 'white': 230, 'hispano': 41, 'asian': 194, 'black': 27}
+2012 {'Population': 485, 'male': 373, 'female': 112, 'white': 243, 'hispano': 51, 'asian': 146, 'black': 45}
+2010 {'Population': 473, 'male': 375, 'female': 98, 'white': 214, 'hispano': 61, 'asian': 160, 'black': 38}
