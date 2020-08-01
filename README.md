@@ -31,4 +31,4 @@ recent version of Debian or Ubuntu Linux : `apt-get install python3-bs4`
 
 
 # License Information
-Copyright (c) 2020 Wenbo Shi
+This repository has a general MIT License with some addtional conditons. Please review the license before using any segments of the repository.
