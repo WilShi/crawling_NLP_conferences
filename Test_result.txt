@@ -1,0 +1,216 @@
+Female proportion did not change in 2010 and 2019 in ACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.3743979668351824
+p value:  0.16931816701420466
+Fail to reject H0: year1 == year2
+
+White participants proportion did not change in 2010 and 2019 in ACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -7.7442087288059005
+p value:  9.617890118029388e-15
+Reject H0: year1 != year2
+
+Hispano participants proportion did not change in 2010 and 2019 in ACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  0.8231513140347424
+p value:  0.4104219511068028
+Fail to reject H0: year1 == year2
+
+Asian participants proportion did not change in 2010 and 2019 in ACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  7.007179576153298
+p value:  2.4317008301557492e-12
+Reject H0: year1 != year2
+
+Black participants proportion did not change in 2010 and 2019 in ACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -1.1803309115889864
+p value:  0.23786862838348977
+Fail to reject H0: year1 == year2
+
+ **********************************************************************
+Female proportion did not change in 2010 and 2019 in EMNLP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  4.148193836411904
+p value:  3.351086162621253e-05
+Reject H0: year1 != year2
+
+White participants proportion did not change in 2010 and 2019 in EMNLP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -7.846212040669402
+p value:  4.287917118865662e-15
+Reject H0: year1 != year2
+
+Hispano participants proportion did not change in 2010 and 2019 in EMNLP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -0.022843387271168532
+p value:  0.9817751990056582
+Fail to reject H0: year1 == year2
+
+Asian participants proportion did not change in 2010 and 2019 in EMNLP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  7.889904559697434
+p value:  3.0241772339953938e-15
+Reject H0: year1 != year2
+
+Black participants proportion did not change in 2010 and 2019 in EMNLP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -2.2749111148300973
+p value:  0.022911262451648443
+Reject H0: year1 != year2
+
+ **********************************************************************
+Female proportion did not change in 2010 and 2019 in NAACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  2.937745521416374
+p value:  0.0033060827543516303
+Reject H0: year1 != year2
+
+White participants proportion did not change in 2010 and 2019 in NAACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -6.552469215049982
+p value:  5.659338822969305e-11
+Reject H0: year1 != year2
+
+Hispano participants proportion did not change in 2010 and 2019 in NAACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -2.8318653026501823
+p value:  0.004627733869533111
+Reject H0: year1 != year2
+
+Asian participants proportion did not change in 2010 and 2019 in NAACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  9.009716479609654
+p value:  2.0658988151606658e-19
+Reject H0: year1 != year2
+
+Black participants proportion did not change in 2010 and 2019 in NAACL
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -2.6890275662513434
+p value:  0.007166050126334939
+Reject H0: year1 != year2
+
+ **********************************************************************
+Female proportion does not change between ACL and EMNLP in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -3.040294186394996
+p value:  0.0023634716535820225
+Reject H0: year1 != year2
+
+White participants proportion does not change between ACL and EMNLP in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -0.616544656335265
+p value:  0.5375351083322292
+Fail to reject H0: year1 == year2
+
+Hispano participants proportion does not change between ACL and EMNLP in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -1.6757026805926514
+p value:  0.09379644451642045
+Fail to reject H0: year1 == year2
+
+Asian participants proportion does not change between ACL and EMNLP in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.5302420802868866
+p value:  0.12595681896085226
+Fail to reject H0: year1 == year2
+
+Black participants proportion does not change between ACL and EMNLP in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -0.006274333943270438
+p value:  0.9949938386638459
+Fail to reject H0: year1 == year2
+
+ **********************************************************************
+Female proportion does not change between ACL and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -2.2643298229998856
+p value:  0.023553836638294065
+Reject H0: year1 != year2
+
+White participants proportion does not change between ACL and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.9777083548065164
+p value:  0.04796161720160821
+Fail to reject H0: year1 == year2
+
+Hispano participants proportion does not change between ACL and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.976968323038355
+p value:  0.04804521091977256
+Fail to reject H0: year1 == year2
+
+Asian participants proportion does not change between ACL and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -3.8976922031175265
+p value:  9.711373887355108e-05
+Reject H0: year1 != year2
+
+Black participants proportion does not change between ACL and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.2970317249448498
+p value:  0.19462027126495318
+Fail to reject H0: year1 == year2
+
+ **********************************************************************
+Female proportion does not change between EMNLP and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  0.8995909419284366
+p value:  0.36833797940203694
+Fail to reject H0: year1 == year2
+
+White participants proportion does not change between EMNLP and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  2.2558213665097306
+p value:  0.02408182065962256
+Reject H0: year1 != year2
+
+Hispano participants proportion does not change between EMNLP and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  3.1649946618221327
+p value:  0.0015508579639291439
+Reject H0: year1 != year2
+
+Asian participants proportion does not change between EMNLP and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -4.766251694622806
+p value:  1.8768477775186738e-06
+Reject H0: year1 != year2
+
+Black participants proportion does not change between EMNLP and NAACL in 2010
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.0952484041085444
+p value:  0.2734078249816301
+Fail to reject H0: year1 == year2
+
+ **********************************************************************

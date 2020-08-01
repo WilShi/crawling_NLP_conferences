@@ -41,7 +41,7 @@ def count_num(filename):
     black = 0
 
     filename = filename.replace('\n', '')
-    data = pd.read_csv(filename)
+    data = pd.read_csv('CSV_files_NLP/'+filename)
     for g in data['Gender']:
         if g == 'male':
             male += 1
@@ -325,9 +325,9 @@ if __name__ == "__main__":
             create_diagram(naacl, 'NAACL', 'race')
 
     else:
-        deduplication_name('total_name_list.txt')
+        deduplication_name('Support_file_NLP/total_name_list.txt')
 
-        acl, emnlp, naacl = arrange_files('csv_list.txt')
+        acl, emnlp, naacl = arrange_files('CSV_files_NLP/csv_list.txt')
 
         # print(acl)
         # print(emnlp)
@@ -345,9 +345,9 @@ if __name__ == "__main__":
         # for key in naacl:
         #     print(key, naacl[key])
             
-        # run_hy_test(acl, 'ACL', '2010', '2019')
-        # run_hy_test(emnlp, 'EMNLP', '2010', '2019')
-        # run_hy_test(naacl, 'NAACL', '2010', '2019')
+        run_hy_test(acl, 'ACL', '2010', '2019')
+        run_hy_test(emnlp, 'EMNLP', '2010', '2019')
+        run_hy_test(naacl, 'NAACL', '2010', '2019')
         
         test_two_conf(acl, emnlp, 'ACL', 'EMNLP', '2010')
         test_two_conf(acl, naacl, 'ACL', 'NAACL', '2010')
